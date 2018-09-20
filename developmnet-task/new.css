@@ -1,0 +1,49 @@
+body {
+  background: #eee;
+  color: #1a1a1a;
+}
+
+#app {
+  color: #4a4a4a;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+h2{
+text-align:center;
+background: #1CABE2;
+color:#ffffff;
+}
+#app h1 {
+  font-size: 30px;
+}
+#app TableData{
+  background: #008330;
+}
+#app input {
+  border: 0;
+  background: f1f1f1;
+  font-size: 30px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: 1a1a1a;
+  padding-bottom: 5px;
+}
+
+textarea, input { outline: none; }
+button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #374EA2;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+}
+h4 {
+  font-size: 15px;
+  color: red;
+}
+
