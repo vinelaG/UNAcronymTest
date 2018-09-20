@@ -23,3 +23,6 @@ Description: limitation for top border color which darken by 5%
 6.	color: darken($color, 10%)
 
 Description: Alert color which is given will be darken by 10%
+
+Please find the below link to Run the App (3rd question)
+https://codepen.io/anon/pen/zJepxN
