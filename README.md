@@ -25,44 +25,6 @@ Description: limitation for top border color which darken by 5%
 Description: Alert color which is given will be darken by 10%
 
 
-Write an example of call to this mixing to create the .alert-success with a green color
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.alert {
-    padding: 20px;
-    background-color: #008000;
-    color: white;
-}
-
-.closebtn {
-    margin-left: 15px;
-    color: white;
-    font-weight: bold;
-    float: right;
-    font-size: 22px;
-    line-height: 20px;
-    cursor: pointer;
-    transition: 0.3s;
-}
-
-.closebtn:hover {
-    color: black;
-}
-</style>
-</head>
-<body>
-
-<h2>Alert Messages</h2>
-<div class="alert">
-  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
-  <strong>Success!</strong> Action event of alert was completed.
-</div>
-
-</body>
-</html>
 
 
 
